@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "月の夜のけものたち",
+  "base_artist": "Lucia",
+  "createdAt": "2026-02-17T06:18:04.353790Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月の夜のけものたち",
+      "artist": "Lucia",
+      "has_synced": false,
+      "path": "select/pl_01_月の夜のけものたち_Lucia.txt"
+    }
+  ]
+}
